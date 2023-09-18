@@ -1,6 +1,8 @@
 # Signatures for strong-field QED physics in the quantum limit of beamstrahlung
 
-Authors: W. L. Zhang, T. Grismayer, L. O. Silva
+Original authors of paper: W. L. Zhang, T. Grismayer, L. O. Silva
+
+Notebook by: Óscar Amaro
 
 Pre-print: https://arxiv.org/abs/2302.01321v2
 
