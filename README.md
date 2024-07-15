@@ -2,7 +2,7 @@
 
 Original authors of paper: W. L. Zhang, T. Grismayer, L. O. Silva
 
-Notebook by: Óscar Amaro
+Notebook by: [Óscar Amaro](https://github.com/OsAmaro)
 
 Pre-print: https://arxiv.org/abs/2302.01321v2
 
